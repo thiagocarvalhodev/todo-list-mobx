@@ -1,6 +1,6 @@
 # todo_list_mobx
 
-A new Flutter project.
+Simples todo list com gerência de estado utilizando mobX e Provider na injeção de dependências.
 
 ## Getting Started
 
